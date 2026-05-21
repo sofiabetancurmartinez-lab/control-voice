@@ -111,7 +111,7 @@ except:
     st.markdown("### 🎙️🐶")
 
 st.markdown(
-    '<div class="instruction">Toca el botón y di una frase como:<br><b>alimentar</b>, <b>dar comida</b> o <b>servir comida</b></div>',
+    '<div class="instruction">Toca el botón y di la frase:<br><b>feed</b>,
     unsafe_allow_html=True
 )
 
